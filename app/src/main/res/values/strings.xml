@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Riddle Room</string>
+
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+
+    <string name="Question_1">Superman\'s real name is Clerk kent.</string>
+    <string name="Question_2">Spidarman is a DC superhero.</string>
+    <string name="Question_3">Iron Man was the first movie in MCU.</string>
+    <string name="Question_4">Joker is the biggest villain of batman.</string>
+    <string name="Question_5">Thor is a Norse God.</string>
+    <string name="Question_6">Loki is a God of mischief.</string>
+    <string name="Question_7">Batman\'s car is known as CatMobile.</string>
+    <string name="Question_8">Jarvis is a name of Iron Man\'s AI.</string>
+    <string name="Question_9">Avengers End Game was the last of Avengers movie.</string>
+    <string name="Question_10">Robin is a sidekick of IronMan.</string>
+
+    <string name="Question_11">Thomas Alva Edison invented the electric bulb.</string>
+    <string name="Question_12">C is an object oriented computer programing language.</string>
+    <string name="Question_13">The boiling point of the pure water is hundred degree celsius.</string>
+    <string name="Question_14">There are 206 bones in human body.</string>
+    <string name="Question_15">Venus is the closest planet to the earth.</string>
+    <string name="Question_16">Ada Lovelace is known as the first computer programmer.</string>
+    <string name="Question_17">Charles Babbage is considered to be a Father of Computer.</string>
+    <string name="Question_18">The study of plant is known as zoology</string>
+    <string name="Question_19">The speed of light is fastest in the world.</string>
+    <string name="Question_20">Newton gave us the theory of relativity.</string>
+    <string name="Question_21">Crude oil is a fossil fuel.</string>
+    <string name="Question_22">All matter has mass and density.</string>
+    <string name="Question_23">Lightning rarely strikes skyscrapers.</string>
+    <string name="Question_24">A person would weigh more on earth than moon.</string>
+    <string name="Question_25">Ocean sometime stands still.</string>
+    <string name="Question_26">Audible range of human ear is 20 HZ to 20 KHZ.</string>
+    <string name="Question_27">The sound having frequency less than 20 HZ is called as Ultrasonic sound.</string>
+    <string name="Question_28">There are eight planets in the solar system.</string>
+    <string name="Question_29">Kelvin is a measure of Temperature.</string>
+    <string name="Question_30">The Atlantic Ocean is the biggest ocean on earth.</string>
+    <string name="Question_31">The Atlantic Ocean is the biggest ocean on earth.</string>
+
+</resources>
