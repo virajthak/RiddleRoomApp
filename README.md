@@ -5,7 +5,7 @@ This is a multi-screen quiz app named Riddle Room. Riddle Room has three quiz se
 
 ![Screenshot_2023-01-25-08-13-51-84_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215402683-4fb35783-6ca5-4663-a1de-c8ecfa9fb3c8.jpg)
 
-#Super Hero 
+# Super Hero 
 
 ![Screenshot_2023-01-25-08-13-56-00_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215402810-a66a9fcb-e778-4e9f-a539-3e3606190cb5.jpg)
 
@@ -14,13 +14,13 @@ This is a multi-screen quiz app named Riddle Room. Riddle Room has three quiz se
 ![Screenshot_2023-01-25-08-14-39-53_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215403421-c5966d22-d89a-4067-b28e-e2770439329a.jpg)
 
 
-#Science
+# Science
 
 ![Screenshot_2023-01-25-08-14-46-60_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215403620-64ed99b5-555c-41ad-83ab-4f85144b7df1.jpg)
 
 ![Screenshot_2023-01-25-08-25-03-89_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215403713-722101df-e63e-4860-b152-9eada4c530e8.jpg)
 
-#Movies
+# Movies
 
 ![Screenshot_2023-01-25-08-25-33-65_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215403914-693beed1-b40e-4feb-8896-2c8ddd63da21.jpg)
 
