@@ -4,11 +4,7 @@ This is a multi-screen quiz app named Riddle Room. Riddle Room has three quiz se
 
 
 ![Screenshot_2023-01-25-08-13-51-84_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215400408-1d43b9ca-f5b4-40aa-a619-bf5676eee0a9.jpg)
-
-
 ![Screenshot_2023-01-25-08-13-56-00_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215400519-0fed8e4e-087c-4e00-a2a5-ab00e4c83bff.jpg)
-
-
 ![Uploading Screenshot_2023-01-25-08-28-20-82_485096c3594c3
 ![Screenshot_2023-01-25-08-14-39-53_485096c3594c385d7870d8d286c241b7](https://user-images.githubusercontent.com/90909608/215400520-534c99d0-6e58-443c-9736-6f2071e1327b.jpg)
 85d7870d8d286
